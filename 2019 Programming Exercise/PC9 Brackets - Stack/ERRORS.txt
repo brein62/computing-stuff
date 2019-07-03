@@ -1,0 +1,6 @@
+((): Expecting ')'
+{]: Expecting '['
+)(: Expecting '('
+((())]: Expecting '['
+[({)]}: Expecting '('
+((([[[]]]){}): Expecting ')'

@@ -1,0 +1,20 @@
+def main():
+    fruits = LinkedList()
+    while True:
+        print("1.   Add an item\n" + \
+              "2.   Traverse the linked list of used nodes and output the data values\n" + \
+              "3.   Output all pointers and data values\n" + \
+              "4.   Traverse the linked list of used nodes and output the data values, in reverse order\n" + \
+              "5.   Remove an item from the linked list\n" + \
+              "X.   Exit")
+        option = input("Enter option: ")
+        if option == '1':
+            fruits.AddNode()
+        elif option == '2':
+            fruits.Traversal()
+        elif option == '3':
+            fruits.DisplayLinkedList()
+        elif option == 'X':
+            break
+        else:
+            print("Invalid input.\n")

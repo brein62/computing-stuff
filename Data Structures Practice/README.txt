@@ -1,0 +1,1 @@
+If you read this the Programming Challenges 7 to 12 have been moved to the 2019 Programming Challenges folder lmao

@@ -1,0 +1,3 @@
+Maximum number: 998
+Minimum number: 4
+Average number: 494.383808095952
