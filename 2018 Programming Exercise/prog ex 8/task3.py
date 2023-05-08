@@ -17,15 +17,23 @@ def Recursive_binary_search(data, toFind, start, end):
     else:                                                               #data is less than search key
         return Recursive_binary_search(data, toFind, mid + 1, end)      #right sub-array
 
+# prints output depending on whether item is found or not
+def search(data, toFind, start, end):
+    
+    # the search result
+    result = Recursive_binary_search(data, toFind, start, end)
+    if result == -1:
+        print("Item", toFind, "is not found.")
+    else:
+        print("The index of the item {} in the array is {}.".format(toFind, result))
+
+
 def main():
     scoreFile = open("newscore.txt","r")
     score=scoreFile.read().split(",")
     for i in range(len(score)):
         score[i] = int(score[i])
     scoreFile.close()
-    search = Recursive_binary_search(score, 569, 0, len(score) - 1)
-    if search == -1:
-        print("Item {} is not found.".format(569))
-    else:
-        print("The index of the item {} in the array is {}.".format(569, search))
+    search(score, 569, 0, len(score) - 1)
 
+main()

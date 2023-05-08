@@ -94,23 +94,26 @@ class PrintQueue:
         print("-"*46)
 
         Current = self.__FrontPtr
-        while Current != self.__RearPtr:
+        count = 0
+        while count != self.__CurrentSize:
             CurrJob = self.__Data[Current]
             print("| {0:^12} | {1:^12} | {2:^12} |".format(CurrJob.GetUserID(), \
                                                            CurrJob.GetTerminalNo(), \
                                                            CurrJob.GetFileSize()))
+            count += 1
             if Current == len(self.__Data) - 1:
                 Current = 0
             else:
                 Current += 1
+            
 
         print("-"*46)
         print()
         
 a = PrintQueue()
-a.Insert(1,2, 3)
-a.Insert(4,5,6)
-a.Insert(1,7,9)
-a.Insert(1,4, 3)
-a.Insert(5,2, 2)
+a.Insert(1, 2, 3)
+a.Insert(4, 5, 6)
+a.Insert(1, 7, 9)
+a.Insert(1, 4, 3)
+a.Insert(5, 2, 2)
 a.Display()

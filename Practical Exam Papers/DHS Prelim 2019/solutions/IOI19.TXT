@@ -1,0 +1,332 @@
+Rank,First Name,Last Name,Team,Overall,Medal
+1,Benjamin,Qi,USA,547.09,G
+2,Ildar,Gainullin,RUS,511.22,G
+3,Zixiang,Zhou,CAN,494.33,G
+4,Ziqian,Zhong,CHN,491.46,G
+5,Junzhao,Yang,CHN,482.39,G
+6,Po-Hsuan,Su,TWN,477.14,G
+7,Eric,Zhang,USA,466.87,G
+8,Mahdi,Jafari Raviz,IRN,464.11,G
+9,Angus,Ritossa,AUS,459.26,G
+10,Arthur,Léonard,FRA,452.65,G
+11,Shih-Yu,Wang,TWN,445.43,G
+12,Eu-Shaun,Leong,SGP,444.35,G
+13,Daniel,Zhang,USA,441.75,G
+14,Nazarii,Denha,UKR,439.2,G
+15,Nikoloz,Birkadze,GEO,435.75,G
+16,Abdul Malik,Nurrokhman,IDN,435.43,G
+17,Vladimir,Romanov,RUS,435.35,G
+18,Sebin,Kim,KOR,435.3,G
+19,Phuc,Trinh Huu Gia,VNM,433.48,G
+20,Jiaxuan,Gao,CHN,433.11,G
+21,Radoslav,Dimitrov,BGR,428.75,G
+22,Gyojun,Youn,KOR,425.97,G
+23,Batyr,Sardarbekov,KAZ,422.81,G
+24,Duc,Bui Hong,VNM,421.66,G
+25,Masataka,Yoneda,JPN,420.89,G
+26,Egor,Lifar,RUS,419.3,G
+27,Balázs,Tóth,HUN,418.26,G
+28,Aleksandr,Morozov,RUS,414.75,G
+29,Koichi,Namekata,JPN,411.46,S
+30,Arshia,Soltani Moakhar,IRN,410.52,S
+31,Etienne,Rossignol,FRA,409.24,S
+32,Noam,Gutterman,ISR,400.91,S
+33,Jiří,Kalvoda,CZE,400.7,S
+34,Patrick,Pavić,HRV,399.97,S
+35,Carlos Miguel,Soto,ARG,399.75,S
+36,Seyyed Mehrshad,Mirmohammadi,IRN,397.5,S
+37,Yujin,Im,KOR,396.41,S
+38,Harris,Leung,HKG,393.84,S
+39,Gediminas,Lelešius,LTU,392.81,S
+40,Sofiia,Melnyk,UKR,389.6,S
+41,Almog,Wald,ISR,386.07,S
+42,Michal,Staník,SVK,383.63,S
+43,Yasutaka,Hiraki,JPN,381.89,S
+44,Tautvydas,Jasiūnas,LTU,377.68,S
+45,Theodor Pierre,Moroianu,ROU,376.15,S
+46,Man Tsung,Yeung,HKG,376.11,S
+47,Aleksandar,Krastev,BGR,373.96,S
+48,Yaraslau,Barysau,BLR,373.59,S
+49,Xiuhan,Wang,CHN,372.59,S
+50,Fredrik,Ekholm,SWE,371.72,S
+51,Victor,Rong,CAN,370.32,S
+52,Sora,Todaka,JPN,367.33,S
+53,Martin,Melicher,SVK,365.99,S
+54,Martin,Kopchev,BGR,364.33,S
+55,Hugo,Peyraud-Magnin,FRA,362.69,S
+56,William,Lin,USA,360.2,S
+57,Krešimir,Nežmah,HRV,358.95,S
+58,Tadija,Šebez,SRB,358.62,S
+59,Andriy,Kuts,UKR,358.11,S
+60,Kevin,Pucci,PRT,358.02,S
+61,Khaleel,Al-Adhami,JOR,354.82,S
+62,Sanchayapol,Lewgasamsarn,THA,352.78,S
+63,Kien,Vu Hoang,VNM,351.77,S
+64,Daniyar,Zakarin,KAZ,351.24,S
+65,Ekrem,BAL,TUR,350.06,S
+66,Lee,Jeffrey Chun Hean,SGP,346.25,S
+67,Ondrej,Baranovič,SVK,345.5,S
+68,R. Fausta Anugrah,Dianparama,IDN,344.17,S
+69,Alexandru,Rudi,MDA,343.49,S
+70,Siarhei,Protski,BLR,342.28,S
+71,Nyamdavaa,Amar,MNG,341.49,S
+72,Josef,Minařík,CZE,341.33,S
+73,Bogdan,Sitaru,ROU,339.1,S
+74,Mieszko,Grodzicki,POL,337.98,S
+75,Richard,Luhtaru,EST,335.56,S
+76,Jakub,Wasilewski,POL,334.46,S
+77,Vincent,Ling,IDN,333.77,S
+78,Adhyyan,Sekhsaria,IND,332.93,S
+79,Kasra,Mazaheri,IRN,331.87,S
+80,Timmy,Yao,AUS,331.54,S
+81,Rémy,Kimbrough,FRA,329.99,S
+82,Mohamed,Ehab,EGY,329.18,S
+83,Onjo,Lee,KOR,328.61,B
+84,Martynas,Sinkievič,LTU,328.2,B
+85,Teimurazi,Toloraia,GEO,326.46,B
+86,Viktor,Kozhuharov,BGR,325.61,B
+87,Roee,Sinai,ISR,324.6,B
+88,George,Chen,CAN,323.69,B
+89,Federico,Stazi,ITA,323.02,B
+90,Laura Ioana,Georgescu,ROU,322.08,B
+91,Tung,Nguyen Minh,VNM,320.94,B
+92,Andrej,Velichkovski,MKD,320.65,B
+93,Fabrizio,Brioni,ITA,319.67,B
+94,Nikola,Pešić,SRB,318.76,B
+95,Sirawit,Pongnakintr,THA,318.62,B
+96,Min-Yen,Tsai,TWN,316.83,B
+97,Anastasios,Panagopoulos,GRC,315.87,B
+98,Toomas,Tennisberg,EST,315.13,B
+99,Jozef,Fülöp,SVK,313.35,B
+100,Ryan,Wang,AUS,306.93,B
+101,Alexandru,Petrescu,ROU,306.63,B
+102,Kieran,Horgan,IRL,302.25,B
+103,Marco,Meijer,NLD,301.53,B
+104,Temirlan,Baibolov,KAZ,301.37,B
+105,Dan,Baterisna,PHL,301.1,B
+106,Ka Hei,Wai,HKG,300.95,B
+107,Vincent,de Bakker,DEU,300.15,B
+108,Gabriel,Cojocaru,MDA,299.78,B
+109,Cahid Enes,Keles,TUR,297.33,B
+110,Matīss,Kristiņš,LVA,297.18,B
+111,Kārlis,Šusters,LVA,296.92,B
+112,Omurbek,Dzhamalov,KGZ,296.91,B
+113,Ahmad,Haidar,SYR,296.81,B
+114,Rezwan,Arefin,BGD,295.06,B
+115,Alessandro,Bortolin,ITA,294.27,B
+116,Pongsaphol,Pongsawakul,THA,292.75,B
+117,Rajarshi,Basu,IND,292.03,B
+118,Marek,Skiba,POL,289,B
+119,Aliaksei,Filinovich,BLR,288.82,B
+120,Benedict,Randall Shaw,GBR,288.74,B
+121,Benjamin,Bajd,SVN,287.6,B
+122,Benson Zhan Li,Lin,SGP,287.19,B
+123,Dorijan,Lendvaj,HRV,287.05,B
+124,Michal,Jireš,CZE,286.08,B
+125,Jia Jun,Lee,MYS,285.89,B
+126,Moses,Mayer,IDN,284.19,B
+127,Héctor Fernando,Ricárdez Lara,MEX,283.15,B
+128,Pavel,Kliska,HRV,281.33,B
+129,Mladen,Puzić,SRB,280.94,B
+130,Santeri,Toivonen,FIN,280.77,B
+131,Nándor,Nagy,HUN,280.47,B
+132,Lok Kan,Yuen,HKG,280.16,B
+133,Erik,Sünderhauf,DEU,279.88,B
+134,Maxym,Zub,UKR,279.62,B
+135,Arman,Ferdous,BGD,277.33,B
+136,Shabdan,Batyrkulov,KGZ,277.32,B
+137,Nicolas,Camenisch,CHE,275.54,B
+138,Lennart,Ferlemann,DEU,272.58,B
+139,Zhiyuan,Qi,NZL,272.22,B
+140,Zachary,Smith,GBR,272.15,B
+141,Muhannad,Alwarawreh,JOR,272.08,B
+142,Jovan,Bengin,SRB,270.38,B
+143,Andres,Alumets,EST,269.45,B
+144,Jakob,Schrader,SVN,269.33,B
+145,Bakari,Gamezardashvili,GEO,267.15,B
+146,Gustav,Kalander,SWE,264.85,B
+147,Fares,Pasuni,SAU,264.4,B
+148,Hugo,Eberhard,SWE,264.34,B
+149,Talantbek,Zhenishbek uulu,KGZ,263.76,B
+150,Tunan,Shi,AUS,263.6,B
+151,Kiryl,Shyrma,BLR,263.36,B
+152,Zhan,Kurbanbayev,KAZ,262.67,B
+153,Sebastian,Sánchez Lara,MEX,262.22,B
+154,Frederico,Bulhões de Souza Ribeiro,BRA,260.56,B
+155,Jon-Magnus,Rosenblad,NOR,260.33,B
+156,Carl,Westerlund,SWE,258.31,B
+157,Olli,Järviniemi,FIN,256.33,B
+158,Bo-Yen,Tang,TWN,254.77,B
+159,Joël,Huber,CHE,252.89,B
+160,Tasmeem,Reza,BGD,252.65,B
+161,Andrej,Shekerov,MKD,252.27,B
+162,Itay,Yehuda,ISR,251,B
+163,Mohammad Nour,Massri,SYR,250.19,B
+164,Jakob,Nogler,ITA,249.58,P
+165,Martin,Dinev,MKD,248.42,P
+166,Tamer,Emad,SYR,246.69,P
+167,Bálint,Molnár,HUN,246.33,P
+168,Nader,Jemel,TUN,242,P
+169,Osama,Alkhodairy,EGY,241.75,P
+170,Mehmet Hamza,Erol,TUR,241.44,P
+171,Kevin,Wan,CAN,241,P
+172,Oscar,Jocqué,BEL,237.45,P
+173,Javier,Nistal Salas,ESP,237.08,P
+174,Renāts,Jurševskis,LVA,236,P
+175,Cheng U,Ian,MAC,235.5,P
+176,Sebastian,Weiermann,BEL,234.27,P
+177,Murad,Eynizada,AZE,232.85,P
+178,Christian,Bertram,DNK,232.26,P
+179,Abutalib,Namazov,AZE,232.24,P
+180,Ralph,McDougall,ZAF,232.11,P
+181,Willian,Wang,BRA,232,P
+182,Tian,Cilliers,ZAF,231.92,P
+183,Mohammed Taariq,Mowzer,ZAF,231.66,P
+184,Iat Long,Iong,MAC,230.33,P
+185,Andreas,Kalavas,CYP,229.91,P
+186,Behruz,Azam,UZB,229.08,P
+187,Shashwat,Chandra,IND,229,P
+188,Daniel Zhenghao,Choo,SGP,228.3,P
+189,Tanapoom,Laoaroon,THA,228,P
+190,Lautaro,Lasorsa,ARG,227.8,P
+191,Håvard Rognebakke,Krogstie,NOR,225.62,P
+192,Miko,Surara,PHL,225,P
+193,Kel Zin,Tan,MYS,224,P
+194,Diego Emir,García Moreno,MEX,223.08,P
+195,Tiago,Domingos,BRA,220.34,P
+196,Maayan,Levy,NZL,219.53,P
+197,Dimitrios,Rontogiannis,GRC,219,P
+197,Roope,Salmi,FIN,219,P
+199,Evangelos,Pipis,GRC,216.98,P
+200,Blagojche,Pavleski,MKD,216,P
+201,Andi,Qu,ZAF,215.09,P
+202,Aziz,Huseynov,AZE2,214,P
+203,Vladimirs,Ščigoļevs,LVA,212.92,P
+204,Tugsgerel,Lkhagvasuren,MNG,212.58,P
+205,Mauricio,Cari,CHL,212.03,P
+206,Ming Yean,Lim,MYS,211.59,P
+207,Asadullo,Ganiev,UZB,210.98,P
+208,Steven,Reyes,PHL,210.64,P
+209,Dion Stephan,Ong,PHL,210.11,P
+210,Áron,Noszály,HUN,209.63,P
+211,Tuukka,Yildirim,FIN,206.53,P
+212,Brayan,Duran Medina,CUB,205.07,P
+213,Mamnoon,Siam,BGD,204.89,P
+214,Charalampos,Georgiou,CYP,204.6,P
+215,Oscar,Sierra,COL,204.08,P
+216,Zhiyi,Luo,BEL,203.68,P
+217,Justas,Želnia,LTU,202,P
+218,Claudiu,Babin,MDA,201.32,P
+219,Admir,Zatega,BIH,200.33,P
+220,Christopher,Burckhardt,CHE,200,P
+220,Caolan,Fleming,IRL,200,P
+222,Euan,Ong,GBR,198.49,P
+223,José Ángel,Cázares Torres,MEX,198,P
+224,Izan,Beltrán Ferreiro,ESP,197.44,P
+225,Mikołaj,Stępiński,POL,197,P
+226,Anouar,Achghaf,MAR,195.71,P
+227,Anay,Karnik,IND,195,P
+228,Luis,Bahners,DEU,194.33,P
+229,Pedro,Lucas Lanaro Sponchiado,BRA,192,P
+230,Jaagup,Tamme,EST,188.58,P
+231,Angelos,Assos,CYP,186,P
+232,Mirbek,Bakirov,KGZ,185,P
+233,David,Nassauer,PRT,182.35,P
+234,Shenal Santhush,Kotuwewatta,LKA,181,P
+235,Hasan,Khadra,SYR,179.34,P
+236,Turbat,Enkhbat,MNG,177,P
+237,Hazem,Issa,EGY,175.91,P
+238,Cesar,Diaz,COL,174.93,P
+239,Omar,Besbes,TUN,173.33,P
+240,Fan Meng,Hong,MAC,173.03,P
+241,Gijs,Pennings,NLD,170.95,P
+242,Robin,Gugel,AUT,170.76,P
+243,Amin,Jalilov,AZE2,170.35,P
+244,Ivan,Solovyev,NZL,170,P
+245,José Rodrigo,Santamaría,SLV,169.62,P
+246,Kai Seng,Ho,MAC,166.92,P
+247,Davit,Khvedelidze,GEO,166,P
+248,Farhad,Azimov,AZE,164.01,P
+249,Annejan,van den Dool,NLD,164,P
+250,Mahmoud,Adel,EGY,162.07,P
+251,Eik,Hvattum Røgeberg,NOR,158.47,P
+252,Diego,Salas,CHL,158,P
+253,Ignacio,Muñoz,CHL,155,P
+254,Rafik,Hachana,TUN,154,P
+254,Kosta,Vukicevic,MNE,154,P
+256,Thomas,Kaar,AUT,153.33,P
+257,Pedro,Dias,PRT,153.16,P
+258,Baha Eren,Yaldiz,TUR,153.1,P
+259,Jérôme,Mayolet,BEL,152,P
+260,Valentin,Imbach,CHE,147.71,P
+261,Suleyman,Atayev,TKM,147.48,P
+262,Davlat,Magzumov,TJK,147.28,P
+263,Aymane,Lotfi,MAR,147,P
+264,Victor,Melinceanu,MDA,138.5,P
+265,Daniel,Fendrich,AUT,138,P
+266,Ricardo,Antunes,PRT,137.94,P
+267,Sebastián,Mestre,ARG,137,P
+268,Matevž,Miščič,SVN,136,P
+269,Nodir,Bobiev,TJK,134,P
+270,Radek,Olšák,CZE,133.2,P
+271,Charlie,van Diepen,NLD,132.33,P
+272,Bor,Grošelj Simić,SVN,132,P
+273,Oisin,Davey,IRL,131,P
+274,William Bille,Meyling,DNK,130.58,P
+275,Tarik,Dzaka,BIH,130.39,P
+276,Mohamed,El Khatri,MAR,127.2,P
+277,Eric,Song,NZL,125.94,P
+278,Abdullah,Aljohani,SAU,125.49,P
+279,Jovan,Kascelan,MNE,124,P
+280,Sofus,Emil Simonsen Øvretveit,NOR,123,P
+281,Ibrahim,Taghizade,AZE,122.95,P
+282,Arthur,Conmy,GBR,120,P
+282,Luis Sebastian,Galan,DNK,120,P
+284,Haris,Imamovic,BIH,116.8,P
+285,Alexander,Skovsende,DNK,116,P
+286,Mohammed,Alrefaei,SAU,115,P
+286,Alexandre,FOUQUET,LUX,115,P
+288,Chibuoyim Faith Wilson,Ogbonna,NGA,112.81,P
+289,Panagiotis,Chatzimichos,GRC,110,P
+290,Hans,Kühn,CHL,109,P
+291,Bjarni Dagur Thor,Kárason,ISL,96,P
+291,Ashan,Rathnaweera,LKA,96,P
+291,Li Xuan,Tan,MYS,96,P
+294,Anushervon,Bozorov,TJK,90,P
+295,Alvaro,Bacca,COL,84,P
+296,Yakup,Allakov,TKM,80.24,P
+297,Akmal,Mamadshoev,TJK,80,P
+298,Léo,Gamboa Dos Santos,LUX,79,P
+299,Laura,Massaccesi,ARG,78,P
+299,Daner Zein,Tonconi Mendoza,BOL,78,P
+301,Aya,Ben Saad,TUN,76,P
+302,Ziyad,Alomari,SAU,68.94,P
+303,Andrew,Nash,IRL,66,P
+304,Khulegu,Batnasan,MNG,64.33,P
+305,Arturo Aurelio,Hernandez Rodriguez,DOM,64,P
+306,Ásþór,Björnsson,ISL,61,P
+307,Martín,Rodríguez Muñoz,ESP,56,P
+308,Chamindu,Abeysekera,LKA,55,P
+309,Huseyn,Hajiyev,AZE2,54.09,P
+310,Nina,Mitrovic,AUT,52,P
+311,Lakshith,Nishshanke,LKA,50,P
+312,Mohamed Reda,Glioula,MAR,49,P
+313,Darwin,Piche,SLV,40,P
+314,Sardorbek,Sobirov,UZB,37.33,P
+315,Hanka,Goralija,BIH,37,P
+315,Mohammad,Milhem,PSE,37,P
+315,Samah,Qarada,PSE,37,P
+318,Fabricio Javier,Cabrera Gordillo,BOL,35,P
+319,Ufedo Peter Sule,Achimugu,NGA,34,P
+320,Roger Danilo,Enriquez Corrales,BOL,32,P
+321,Stanislas,BRIAUD,LUX,28,P
+321,Basil,Hijaz,PSE,28,P
+323,Ana Paula,De Sousa Martin,VEN,25,P
+324,Jarod,DIFFERDANGE,LUX,19,P
+325,Vicent,Baeza Esteve,ESP,17.5,P
+326,Gurbanberdi,Gulladyyev,TKM,14,P
+327,José Manuel,Cabrera,SLV,10,P
+327,Fatima,Omarova,AZE2,10,P
+329,Bazarkuly,Baymuradov,TKM,0,P
+329,Malokhatkhon,Mukhammadieva,UZB,0,P
+329,Abrar,Toma,PSE,0,P

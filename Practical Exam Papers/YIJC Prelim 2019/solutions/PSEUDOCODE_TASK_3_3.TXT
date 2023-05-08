@@ -1,0 +1,58 @@
+﻿PROCEDURE Insert(NewToken) 
+	//check if tree is full
+	IF NextFreeChild = -1 THEN         
+		RETURN 'Tree is Full' 
+      	
+	//tree is not full, safe to insert new token
+	IF NextFreeChild = 0 THEN     //inserting into empty Tree
+		Tree[Root].DataValue ← NewToken
+		NextFreeChild ← Tree[Root].LeftChild                  
+		Tree[Root].LeftChild ← -1         		 
+		    
+	ELSE     // inserting into tree with existing nodes      
+		Current ← 0       //index of the current node and previous node, starting with Root
+		Previous ← -1
+		NewNode ← Tree[NextFreeChild]   //declare new node
+		NewNode.DataValue ← NewToken
+
+		//Finding the node at which the NewNode can be inserted
+		WHILE Current <> -1 THEN
+			CurrNode ← Tree[Current]
+			IF IsOperator(CurrNode.DataValue) THEN	     //check if CurrNode contains an operator
+				IF CurrNode.LeftChild=-1 THEN        //if LeftChild is empty, insert here
+					CurrNode.LeftChild ← NextFreeChild
+					NextFreeChild ← NewNode.LeftChild 
+					NewNode.LeftChild ← -1
+					Current  ← -1
+			
+				ELIF CurrNode.RightChild=-1 THEN     //if RightChild is empty, insert here
+					CurrNode.RightChild ← NextFreeChild
+					NextFreeChild ← NewNode.LeftChild 
+					NewNode.LeftChild ← -1
+					Current  ← -1
+
+				ELIF IsOperator(Tree[CurrNode.LeftChild].DataValue) THEN     
+					//if LeftChild is an operator, traverse leftchild subtree
+					Previous  ← Current
+					Current  ← CurrNode.LeftChild 
+					Fringe.APPEND(Previous)
+
+				ELIF IsOperator(Tree[CurrNode.RightChild].DataValue) THEN     
+				//if RightChild is an operator, traverse rightchild subtree
+					Previous  ← Current
+					Current  ← CurrNode.RightChild 
+					Fringe.APPEND(Previous)
+
+				ELSE  //traverse right subtree
+					Previous  ← Fringe.POP(-1)
+					Current  ← Tree[Previous].RightChild
+
+				ENDIF
+
+			ELSE  //No place to insert
+				RETURN "Cannot be inserted"							
+					           
+			ENDIF   
+		ENDWHILE
+	ENDIF         
+ENDPROCEDURE

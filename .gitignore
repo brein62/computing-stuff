@@ -4,3 +4,5 @@ others
 desktop.ini
 **/~*.docx
 **/Icon\r
+.DS_cache
+**/*.gdoc

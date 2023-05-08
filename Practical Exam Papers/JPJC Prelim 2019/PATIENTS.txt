@@ -1,0 +1,10 @@
+james,1
+alice,2
+sam,2
+yong,3
+kenny,3
+max,3
+xavier,2
+val,2
+tom,1
+harry,1

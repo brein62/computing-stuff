@@ -23,9 +23,9 @@ def search(data, toFind, start, end):
     # the search result
     result = Recursive_binary_search(data, toFind, start, end)
     if result == -1:
-        print("Item", data, "is not found.")
+        print("Item", toFind, "is not found.")
     else:
-        print("The index of the item {} in the array is {}.".format(data, result))
+        print("The index of the item {} in the array is {}.".format(toFind, result))
 
 
 
@@ -33,3 +33,4 @@ def main():
     score=[11,23,23,34,36,53,57,60,69,70,82,98,113,124,135,156,187,218,319,399]
     search(score, 82, 0, len(score) - 1)
     
+main()

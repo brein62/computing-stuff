@@ -1,0 +1,20 @@
+    # Task 3.1
+    # PSEUDOCODE for add
+    PROCEDURE add(newItem)
+        IF minHeap is not full THEN
+        
+            tree[count] <- newItem
+            curr_ptr <- count
+            parent_ptr <- QUOTIENT((curr_ptr - 1) DIV 2)
+            
+            REPEAT
+                SWAP (tree[parent_ptr], tree[curr_ptr])                
+                curr_ptr <- parent_ptr
+                parent_ptr <- QUOTIENT((curr_ptr - 1) DIV 2)
+            UNTIL curr_ptr EQUAL TO 0 OR tree[parent_ptr] <= newItem
+            
+            INCREMENT count BY 1
+        ELSE
+            OUTPUT "Heap is full. Cannot add."
+        END IF
+    END PROCEDURE
